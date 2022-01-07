@@ -11,9 +11,12 @@
   * [Grants](general/grants-and-bounties/grants.md)
   * [Bounties](general/grants-and-bounties/bounties.md)
 * [Glossary](general/glossary.md)
+* [Media Kits](general/media-kits.md)Setheum-Labs/Setheum-Labs-White-Papers)
 * [Contributing](general/contributing.md)
-* [Media Kits](general/media-kits.md)
-* [WhitePapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers)
+* [Frequently Asked Questions (FAQs)](general/faqs.md)
+* [Troubleshooting](general/troubleshooting.md)
+* [WhitePapers](https://github.com/
+* [Milestones](https://github.com/Setheum-Labs/Setheum/milestones)
 * [Community & Social Media](https://linktr.ee/setheum)
 
 ## Learn
