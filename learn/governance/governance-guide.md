@@ -32,6 +32,9 @@ At this stage - The earliest stage of developing the Setheum Network, Setheum is
 
 We are watching closely good practices and tools for documenting governance proposals, gathering opinions and debates, publishing voting result and execution status etc. As an example, [Polkassembly](https://kusama.polkassembly.io/) seems to be good place to start, and we might consider integrating or using similar approach for the Setheum governance.
 
+#### Phase II: Coming soon...
+The governance model will improve and be more decentralised overtime.
+
 ### Under Discussion & Development
 
 * Setheum Will have a dedicated LaunchPad and LaunchPad Council to help launch projects in Setheum and add their tokens to SetSwap.

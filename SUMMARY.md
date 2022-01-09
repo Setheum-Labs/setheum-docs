@@ -15,7 +15,7 @@
 * [Contributing](general/contributing.md)
 * [Frequently Asked Questions (FAQs)](general/faqs.md)
 * [Troubleshooting](general/troubleshooting.md)
-* [WhitePapers](https://github.com/
+* [WhitePapers](https://github.com/Setheum-Labs/
 * [Milestones](https://github.com/Setheum-Labs/Setheum/milestones)
 * [Community & Social Media](https://linktr.ee/setheum)
 
@@ -41,17 +41,6 @@
     * [Nominator](learn/basics/nominator/README.md)
       * [How to Nominate Stake - Console](learn/basics/staking/nominator/how-to-nominate-stake-console.md)
   * [Treasury](learn/basics/treasury.md)
-  * [SPF (Setheum Public Fund)](learn/basics/treasury.md)
-  * [Economics](learn/basics/economics/README.md)
-    * [Currencies](learn/basics/economics/currencies/README.md)
-      * [Tier-1 (T1/Coins)](learn/basics/economics/currencies/tier-1.md)
-      * [Tier-2 (T2/Stablecoins)](learn/basics/economics/currencies/tier-2.md)
-    * [Transaction Fees](learn/basics/economics/transaction-fees.md)
-    * [Monetary Policy](learn/basics/economics/monetary-policy.md)
-    * [Fiscal Policy](learn/basics/economics/fiscal-policy.md)
-    * [Airdrop](learn/basics/economics/airdrop.md)
-    * [Treasury](learn/basics/economics/treasury.md)
-    * [DEX - SetSwap](learn/basics/economics/dex.md)
 * [Governance](governance/README.md)
   * [Governance Guide](maintain/governance-guides/governance-guide.md)
   * [Council](governance/council/README.md)
@@ -59,7 +48,7 @@
     * [Financial Council](governance/council/financial-council.md)
     * [Technical Committee](governance/council/technical-committee.md)
   * [How to Verify a Runtime Upgrade](governance/how-to-verify-a-runtime-upgrade.md)
-* [DeFi](defi/README.md)
+<!-- * [DeFi](defi/README.md)
   * [NFTs](defi/nfts.md)
   * [SetMint Protocol](learn/defi/setmint-protocol/README.md)
     * [Protocol Overview](learn/defi/setmint-protocol/protocol-overview.md)
@@ -102,20 +91,17 @@
     * [On-chain Scheduler](learn/setheum-evm/setheum-evm-composable-defi-stack/on-chain-scheduler.md)
     * [Queryable & Lightweight](learn/setheum-evm/setheum-evm-composable-defi-stack/queryable-and-lightweight.md)
     * [Compatible Toolings](learn/setheum-evm/setheum-evm-composable-defi-stack/compatible-toolings.md)
-  * [How does it work?](learn/setheum-evm/how-does-it-work.md)
+  * [How does it work?](learn/setheum-evm/how-does-it-work.md) -->
 
 ## Build
 
-* [Builder's Portal](build/builders-portal.md)
+<!-- * [Builder's Portal](build/builders-portal.md) -->
 * [Developer Guide](build/developer-guide/README.md)
   * [General](build/developer-guide/general/README.md)
     * [Transaction Construction](build/developer-guide/general/transaction-construction.md)
-    * [Type Documentation](build/developer-guide/general/types-doc.md)
-  * [Runtime Events](build/developer-guide/runtime-events.md)
-  * [Runtime Modules](build/developer-guide/runtime-modules/README.md)
-    * [SERML (Setheum Ecosystem Runtime Module Library)](build/developer-guide/runtime-modules/serml-modules.md)
-    * [Open-Web3-Stack & ORML](build/developer-guide/runtime-modules/open-web3-stack-and-orml.md)
-  * [SetMint](build/developer-guide/setmint-api.md)
+  * [Runtime Modules](build/developer-guide/runtime-modules/serml-modules.md)
+  * [Open-Web3-Stack & ORML](build/developer-guide/open-web3-stack-and-orml.md)
+  <!-- * [SetMint](build/developer-guide/setmint-api.md)
   * [SetSwap - DEX](build/developer-guide/setswap-dex/README.md)
     * [Setheum API](build/developer-guide/setswap-dex/swap-api.md)
     * [Swap SDK](build/developer-guide/setswap-dex/swap-sdk.md)
@@ -134,10 +120,7 @@
       * [Use On-chain Scheduler](build/developer-guide/smart-contracts/advanced/use-on-chain-scheduler/README.md)
         * [Tutorial](build/developer-guide/smart-contracts/advanced/use-on-chain-scheduler/scheduler-tutorial.md)
       * [Use Oracle Feeds](build/developer-guide/smart-contracts/advanced/use-oracle-feeds.md)
-* [Tools](build/tools.md)
-* [Resources](build/resources/README.md)
-  * [Chain Resources](build/resources/chain-resources.md)
-  * [Examples](build/resources/examples.md)
+* [Tools](build/tools.md) -->
 
 ## Maintain
 
