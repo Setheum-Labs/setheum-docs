@@ -11,7 +11,7 @@
   * [Grants](general/grants-and-bounties/grants.md)
   * [Bounties](general/grants-and-bounties/bounties.md)
 * [Glossary](general/glossary.md)
-* [Media Kits](general/media-kits.md)Setheum-Labs/Setheum-Labs-White-Papers)
+* [Media Kits](general/media-kits.md)
 * [Contributing](general/contributing.md)
 * [Frequently Asked Questions (FAQs)](general/faqs.md)
 * [Troubleshooting](general/troubleshooting.md)
@@ -93,6 +93,17 @@
     * [Compatible Toolings](learn/setheum-evm/setheum-evm-composable-defi-stack/compatible-toolings.md)
   * [How does it work?](learn/setheum-evm/how-does-it-work.md) -->
 
+## Maintain
+
+* [Network Maintainers](maintain/network-maintainers/README.md)
+  * [Node Management](maintain/network-maintainers/node-management.md)
+  * [Node Interaction](maintain/network-maintainers/node-interaction.md)
+  * [Node CLI](maintain/network-maintainers/node-cli.md)
+  * [Run a Bootnode](maintain/network-maintainers/bootnode.md)
+  * [Run a Validator Node](maintain/network-maintainers/node-validator.md)
+  * [Run an RPC Node](maintain/network-maintainers/node-rpc.md)
+* [Chain Resources](build/resources/chain-resources.md)
+
 ## Build
 
 <!-- * [Builder's Portal](build/builders-portal.md) -->
@@ -121,14 +132,3 @@
         * [Tutorial](build/developer-guide/smart-contracts/advanced/use-on-chain-scheduler/scheduler-tutorial.md)
       * [Use Oracle Feeds](build/developer-guide/smart-contracts/advanced/use-oracle-feeds.md)
 * [Tools](build/tools.md) -->
-
-## Maintain
-
-* [Network Maintainers](maintain/network-maintainers/README.md)
-  * [Node Management](maintain/network-maintainers/node-management.md)
-  * [Node Interaction](maintain/network-maintainers/node-interaction.md)
-  * [Node CLI](maintain/network-maintainers/node-cli.md)
-  * [Run a Bootnode](maintain/network-maintainers/bootnode.md)
-  * [Run a Validator Node](maintain/network-maintainers/node-validator.md)
-  * [Run an RPC Node](maintain/network-maintainers/node-rpc.md)
-* [Chain Resources](build/resources/chain-resources.md)
