@@ -15,7 +15,7 @@
 * [Contributing](general/contributing.md)
 * [Frequently Asked Questions (FAQs)](general/faqs.md)
 * [Troubleshooting](general/troubleshooting.md)
-* [WhitePapers](https://github.com/Setheum-Labs/
+* [WhitePapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers)
 * [Milestones](https://github.com/Setheum-Labs/Setheum/milestones)
 * [Community & Social Media](https://linktr.ee/setheum)
 
