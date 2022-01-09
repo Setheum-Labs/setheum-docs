@@ -7,9 +7,9 @@ description: The development direction.
 SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM
 ## Governance
 
-Setheum takes a phased approach to employ various governance mechanisms that will allow it to progressively decentralize while ultimately holding on to its purpose and character as The defacto Islamic Finance to be governed by an educated Islamic Finance Jury. **There should be no pretense of democracy, the best minds have the say here**
+Setheum takes a phased approach to employ various governance mechanisms that will allow it to progressively decentralize while ultimately holding on to its purpose and character as The DeFi Network for Islamic Finance to be governed by a Shari'ah-Compliant Jury. **There should be no pretense of governance decentralisation**
 
-We take much inspiration from Polkadot for technical and governance mechanism design, and adapt it to best serve the Acala Network.
+We take much inspiration from Polkadot for technical and governance mechanism design, and adapt it to best serve the Setheum Network.
 
 ### Chambers of The Setheum Governance
 
@@ -17,7 +17,7 @@ The Shura Council is the overarching chamber that governs The Setheum Network. T
 
 #### Phase I: Council Governance
 
-At this stage - The earliest stage of developing the Setheum Network, Setheum is led by Muhammad-Jibril B.A. of Setheum Labs, in a way not much different from a normal startup: agile planning, lean development, tight execution, and always quick learning. 
+At this stage - The earliest stage of developing the Setheum Network, Setheum is led by Muhammad-Jibril B.A. of Setheum Labs, Setheum Foundation, in a way not much different from a normal star`tup: agile planning, lean development, tight execution, and always quick learning. **There should be no pretense of governance decentralisation**
 
 **Proposals & Motions**
 
@@ -34,13 +34,7 @@ We are watching closely good practices and tools for documenting governance prop
 
 ### Under Discussion & Development
 
-* Setheum Will have a dedicated LaunchPad and LaunchPad Council.
-* For now anyone can bootstrap an LP, but soon bootstrapping new
-pools will need proposals via the also upcoming Proposals module.
-* A BootStrap Fund will be added and governed by its
-BootStrap Council to back good & responsible utility
-projects that propose to bootstrap on SetSwap.
-Grants will be awarded to the teams to add to
-their initial liquidity bootstrap on SetSwap.
+* Setheum Will have a dedicated LaunchPad and LaunchPad Council to help launch projects in Setheum and add their tokens to SetSwap.
+* Setheum Will have a dedicated CrowdFunding Donation Protocol - "Ethaar Protocol". And governed by the EthaarCouncil
 * A 2000 Validators program will soon kick-off to support more
 decentralization by supporting and granting funds to validators.
