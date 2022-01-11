@@ -10,7 +10,7 @@ This page will discuss the transaction format in Setheum and how to create, sign
 
 ### Transaction Format
 
-Polkadot has some basic transaction information that is common to all transactions.
+Setheum has some basic transaction information that is common to all transactions.
 
 * Address: The SS58-encoded address of the sending account.
 * Block Hash: The hash of the checkpoint block.
