@@ -1,6 +1,6 @@
 # The Setheum
 
-And Introduction
+An Introduction
 
 ## The Blockchain Network
 

@@ -4,7 +4,7 @@ description: The development direction.
 
 # Governance Overview
 
-SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM
+SETHEUM - SETHEUM - SETHEUM - SETHEUM - SETHEUM
 ## Governance
 
 Setheum takes a phased approach to employ various governance mechanisms that will allow it to progressively decentralize while ultimately holding on to its purpose and character as The DeFi Network for Islamic Finance to be governed by a Shari'ah-Compliant Jury. **There should be no pretense of governance decentralisation**
@@ -33,7 +33,7 @@ At this stage - The earliest stage of developing the Setheum Network, Setheum is
 We are watching closely good practices and tools for documenting governance proposals, gathering opinions and debates, publishing voting result and execution status etc. As an example, [Polkassembly](https://kusama.polkassembly.io/) seems to be good place to start, and we might consider integrating or using similar approach for the Setheum governance.
 
 #### Phase II: Coming soon...
-The governance model will improve and be more decentralised overtime.
+The governance model will improve and be more inclusive overtime.
 
 ### Under Discussion & Development
 
