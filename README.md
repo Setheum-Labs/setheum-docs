@@ -2,6 +2,8 @@
 
 Welcome to the Setheum Wiki Space, the Setheum dictionary for learning, and working on building or maintaining the Setheum Network. The wiki, and the network is in it's early days. Therefore the Wiki is still under development too.
 
+Setheum creates a unique technology and economy feat that makes it the pioneer in it's conception & implementation of Islamic Finance.
+
 ### Wiki Overview:
 
 - [Contributing Guide](https://wiki.setheum.xyz/general/contributing) - Rules for contributing to the wiki.

@@ -1,7 +1,6 @@
 # Technical Committee
 
-The Setheum Technical Committee assists other governance:
+The Setheum Technical Committee assists in the following technical governance as its name implies:
 
-* Accelerate the proposal and referendum of Democracy.
-* Accelerate the SUDO calls initiated by General Council.
+* Accelerate the SUDO calls initiated by Shura Council.
 * Authorize runtime upgrade.
