@@ -19,3 +19,7 @@ Setheum creates a unique technology and economy feat that makes it the pioneer i
 - [Resources](https://wiki.setheum.xyz/build/resources) - Rules for contributing to the wiki.
 
 - [Network Maintainers](https://wiki.setheum.xyz/maintain/network-maintainers) - Information covering running a node on Setheum.
+
+### Tools for Documentstion:
+
+- [Scribe](https://scribehow.com/): An easy way to generate web-based How-Tos like that of Setheum-JS Console, Apps, etc.
