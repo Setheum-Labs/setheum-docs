@@ -1,4 +1,4 @@
-# WikiSetheum
+# Setheum Wiki
 
 Welcome to the Setheum Wiki Space, the Setheum dictionary for learning, and working on building or maintaining the Setheum Network. The wiki, and the network is in it's early days. Therefore the Wiki is still under development too.
 
